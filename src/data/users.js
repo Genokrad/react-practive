@@ -22,6 +22,7 @@ export const data = [
       catchPhrase: 'Multi-layered client-server neural-net',
       bs: 'harness real-time e-markets',
     },
+    hasJob: false,
   },
   {
     id: 'b477dc',
@@ -46,6 +47,7 @@ export const data = [
       catchPhrase: 'Proactive didactic contingency',
       bs: 'synergize scalable supply-chains',
     },
+    hasJob: false,
   },
   {
     id: 'afe2b5',
@@ -69,6 +71,7 @@ export const data = [
       catchPhrase: 'Face to face bifurcated interface',
       bs: 'e-enable strategic applications',
     },
+    hasJob: false,
   },
   {
     id: '4a95f5',
@@ -93,6 +96,7 @@ export const data = [
       catchPhrase: 'Multi-tiered zero tolerance productivity',
       bs: 'transition cutting-edge web services',
     },
+    hasJob: false,
   },
   {
     id: '1a3403',
@@ -116,6 +120,7 @@ export const data = [
       catchPhrase: 'User-centric fault-tolerant solution',
       bs: 'revolutionize end-to-end systems',
     },
+    hasJob: false,
   },
   {
     id: 'f642eb',
@@ -139,6 +144,7 @@ export const data = [
       catchPhrase: 'Synchronised bottom-line interface',
       bs: 'e-enable innovative applications',
     },
+    hasJob: false,
   },
   {
     id: 'af95da',
@@ -162,6 +168,7 @@ export const data = [
       catchPhrase: 'Configurable multimedia task-force',
       bs: 'generate enterprise e-tailers',
     },
+    hasJob: false,
   },
   {
     id: '867fbf',
@@ -185,6 +192,7 @@ export const data = [
       catchPhrase: 'Implemented secondary concept',
       bs: 'e-enable extensible e-tailers',
     },
+    hasJob: false,
   },
   {
     id: '888a5f',
@@ -208,6 +216,7 @@ export const data = [
       catchPhrase: 'Switchable contextually-based project',
       bs: 'aggregate real-time technologies',
     },
+    hasJob: false,
   },
   {
     id: '8335b7',
@@ -231,5 +240,6 @@ export const data = [
       catchPhrase: 'Centralized empowering task-force',
       bs: 'target end-to-end models',
     },
+    hasJob: false,
   },
 ];
